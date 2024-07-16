@@ -1,0 +1,38 @@
+.loan-calculator {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .slider-container {
+    margin-bottom: 20px;
+  }
+  
+  .slider-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .slider-container .slider-value {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
+  .slider-container input[type="range"] {
+    width: 100%;
+  }
+  
+  .dropdown-container {
+    margin-bottom: 20px;
+  }
+  
+  .dropdown-container label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  

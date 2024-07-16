@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #eef2f5;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+.bank{
+  background-color: #333;
+  color: white;
+  
+}
